@@ -13,7 +13,10 @@ const data = {
 //     console.log(resData);
 //   });
 
-http.post('https://jsonplaceholder.typicode.com/users', data)
-  .then(resData => console.log(resData))
-  .catch(err => console.log(err));
+// http.post('https://jsonplaceholder.typicode.com/users', data)
+//   .then(resData => console.log(resData))
+//   .catch(err => console.log(err));
 
+// http.put('https://jsonplaceholder.typicode.com/users/1', data)
+//   .then(resData => console.log(resData))
+//   .catch(err => console.log(err));
